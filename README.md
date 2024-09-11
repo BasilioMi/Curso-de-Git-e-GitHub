@@ -1,4 +1,4 @@
 # Curso de Git e GitHub
- Priemiro repositório do curso.
+ Primeiro repositório do curso.
 
  Repositório criado durante uma aula ao vivo!
